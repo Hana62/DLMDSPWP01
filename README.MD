@@ -140,8 +140,8 @@ Support from the open-source community.
 ## Contact
 For any inquiries or issues, please contact:
 
-Hana Khoshrou
+Hannaneh Khoshrou
 
-[Hannaneh.khoshrou@gmail.com](mailto:)
+[Hannaneh.khoshrou@gmail.com]
 
-[GitHub Profile]()
+[GitHub Profile](hana62)
