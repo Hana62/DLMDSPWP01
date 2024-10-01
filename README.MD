@@ -142,6 +142,7 @@ For any inquiries or issues, please contact:
 
 Hannaneh Khoshrou
 
-[Hannaneh.khoshrou@gmail.com]
+[Hannaneh.khoshrou@iu-study.org]
 
 [GitHub Profile](https://github.com/Hana62)
+
